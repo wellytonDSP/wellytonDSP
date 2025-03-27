@@ -1,8 +1,8 @@
 # Wellyton dos Santos Pedroso
 
 - 👜 Analista de dados e Desenvolvedor
-- 📈 Frente de dados no projeto SAP/4HANA
 - 📖 Formado em analise e desenvolvimento de sistemas
+  
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="height: 50px;"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" style="height: 50px;"/>
