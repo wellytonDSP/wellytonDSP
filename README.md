@@ -2,12 +2,7 @@
 
 - 👜 Analista de dados e Desenvolvedor
 - 📈 Frente de dados no projeto SAP/4HANA
-- 📖 Formado em analise e desenvolvimento de sistemas pela faculdade SENAC
-<div style="display: flex; gap:10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=wellytonDSP&show_icons=true&theme=merko"  style="height: 200px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellytonDSP&layout=donut&theme=merko"  style="height: 200px;">
-</div>
-
+- 📖 Formado em analise e desenvolvimento de sistemas
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style="height: 75px;"/>
